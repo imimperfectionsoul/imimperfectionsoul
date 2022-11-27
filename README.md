@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imimperfectionsoul
 - 👀 I’m interested in Computer vision,AI/ML,robotics
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently working on  Ai /intelligent autonomous systems Robot
 - 💞️ I’m looking to collaborate on project related to AI/ML
 - 📫 -ashwanikr.raja@gmail.com
 
