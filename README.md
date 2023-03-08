@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imimperfectionsoul
-- 👀 I’m interested in Computer vision,AI/ML,robotics
+- 👀 I’m interested in Web development  Computer vision,AI/ML,robotics
 - 🌱 I’m currently working on  Ai /intelligent autonomous systems Robot
-- 💞️ I’m looking to collaborate on project related to AI/ML
+- 💞️ I’m looking to collaborate on project related to Web Dev and AI/ML
 - 📫 -ashwanikr.raja@gmail.com
 
 <!---
